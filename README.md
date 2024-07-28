@@ -31,4 +31,4 @@ cd Solana-PoH-Emulator
 cargo run
 ```
 ## License
-This project is highly private and created for Syndica for a specific purpose.
+This project is highly private and created for a Web3 US-based company for a specific purpose.
